@@ -1,0 +1,32 @@
+.body
+{
+    background-image: url('02.jpg') no-repeat;
+    background-repeat: no-repeat;
+    background-size:100%;
+    bottom: 0;
+    left: 0;
+    overflow: auto;
+    padding: 3em;
+    position: absolute;
+    right: 0;
+    top: 0;
+    background-size: cover;
+    background-attachment:fill;
+}
+
+.body h1
+{
+    font-weight: 300;
+}
+.body h1 small
+{
+    color: gray;
+}
+.body .form-group
+{
+    padding: 8px 0;
+}
+.body .form-content
+{
+    padding: 40px 0;
+}
