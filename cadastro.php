@@ -22,7 +22,7 @@
 
     <div align="left" class="col-xs-12 col-sm-8 col-md-6 col-sm-offset-2 col-md-offset-3">
         <form name="form1" novalidate method="post" action="s-cadastro.php">
-            <h2>Cadastre-se ou faça seu <a href="login.php">Login</a></h2>
+            <h2>Cadastre-se ou faça seu <a href="index.php">Login</a></h2>
             <hr class="colorgraph">
 
             <div class="form-group">
@@ -160,6 +160,7 @@
         </fieldset>
     </form> -->
 </div>
+    <br><br>
 <script src="js/lib/jquery-2.1.3.min.js"></script>
 <script src="js/lib/bootstrap.min.js"></script>
 <script type="text/javascript">
